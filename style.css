@@ -216,11 +216,17 @@ body {
 }
 
 .product-image-container {
-  height: 240px;
+  height: 180px;
   width: 100%;
   background-color: #f9fafb;
   position: relative;
   overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  .product-image-container {
+    height: 240px;
+  }
 }
 
 .product-image {
@@ -243,10 +249,16 @@ body {
 }
 
 .product-details {
-  padding: 24px;
+  padding: 16px;
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+}
+
+@media (min-width: 640px) {
+  .product-details {
+    padding: 24px;
+  }
 }
 
 .product-category {

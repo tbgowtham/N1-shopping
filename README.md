@@ -1,4 +1,4 @@
-# N1shop - Premium Electronics E-Commerce 🛒
+# N1Shop - Premium Electronics E-Commerce 🛒
 
 Hello nanba/nanbi! Welcome to **N1shop**, oru simple aana romba powerful aana static e-commerce website. Idhu epdi build pannom, idhoda workflow enna nu indha README la theliva pakalam. Neenga oru beginner or student ah irundha, idhu oru perfect learning resource!
 
